@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/a78776f3-9665-4392-9c5c-aaa39779cddd
 
 
 ## Application Architecture
-![Application Architecuture](<application_architecture.png>)
+![Application Architecuture](<Application_Architecture.png>)
 
 
 ## Directory Structure
