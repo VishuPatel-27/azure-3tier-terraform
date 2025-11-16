@@ -329,3 +329,6 @@ terraform destroy -auto-approve
     3) Make your changes
     4) Submit a pull request
 
+### Licence
+
+* This project is under MIT Licence. See [here](https://github.com/VishuPatel-27/azure-3tier-terraform/blob/main/LICENSE) for more info.
